@@ -95,7 +95,7 @@ Dieses Plugin ist unter der GPLv2-Lizenz (oder später) veröffentlicht.
 
 ## 🙌 Mitwirkende
 
-- Entwickelt von Custom Solution
+- Entwickelt von Joseph Kisler - Webwerkstatt
 - Verbessert mit Nutzerfeedback aus echten Anwendungsfällen
 
 ## 📝 Changelog
