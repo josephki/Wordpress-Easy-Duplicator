@@ -1,0 +1,125 @@
+# Copyright (C) 2025 Custom Solution
+# This file is distributed under the same license as the WP Easy Post Duplicator plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Easy Post Duplicator 3.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/wp-easy-post-duplicator\n"
+"POT-Creation-Date: 2025-04-21T12:00:00+00:00\n"
+"PO-Revision-Date: 2025-04-21 18:12+0200\n"
+"Last-Translator: \n"
+"Language-Team: English <en@li.org>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.6\n"
+"X-Domain: wp-easy-post-duplicator\n"
+
+#. Plugin Name of the plugin
+msgid "WP Easy Post Duplicator"
+msgstr "Wordpress Easy Post Duplicator"
+
+#. Description of the plugin
+msgid "Fügt eine \"Duplizieren\"-Funktion für Posts, Pages und Custom Post Types hinzu."
+msgstr "Adds a \"Duplicate\" function for Posts, Pages and Custom Post Types."
+
+#. Author of the plugin
+msgid "Custom Solution"
+msgstr "Custom Solution"
+
+#: wp-easy-post-duplicator.php:63
+msgid "WP Easy Post Duplicator konnte nicht aktiviert werden."
+msgstr "WP Easy Post Duplicator could not be activated."
+
+#: wp-easy-post-duplicator.php:64
+msgid "Es wurden folgende potenzielle Konflikte mit anderen Duplikations-Plugins erkannt:"
+msgstr "The following potential conflicts with other duplication plugins were detected:"
+
+#: wp-easy-post-duplicator.php:71
+msgid "Bitte deaktivieren Sie diese Plugins oder deren Duplizieren-Funktion zuerst, um Konflikte zu vermeiden."
+msgstr "Please deactivate these plugins or their duplication function first to avoid conflicts."
+
+#: wp-easy-post-duplicator.php:134
+msgid "Beitrag erfolgreich dupliziert."
+msgstr "Post successfully duplicated."
+
+#: wp-easy-post-duplicator.php:127
+msgid "Wichtiger Hinweis:"
+msgstr "Important note:"
+
+#: wp-easy-post-duplicator.php:127
+msgid "Da dies ein Crocoblock Custom Post Type ist, bitte speichern Sie den Beitrag, bevor Sie zurück zur Listenansicht gehen, um Fehler zu vermeiden."
+msgstr "As this is a Crocoblock Custom Post Type, please save the post before returning to the list view to avoid errors."
+
+#: wp-easy-post-duplicator.php:147
+msgid "Duplizieren"
+msgstr "Duplicate"
+
+#: wp-easy-post-duplicator.php:155
+msgid "Duplizieren (bitte danach speichern)"
+msgstr "Duplicate (please save afterwards)"
+
+#: wp-easy-post-duplicator.php:156
+msgid "Diesen Beitrag duplizieren"
+msgstr "Duplicate this post"
+
+#: wp-easy-post-duplicator.php:156
+msgid "Diesen Beitrag duplizieren - Bitte speichern Sie die Kopie, bevor Sie zur Listenansicht zurückkehren"
+msgstr "Duplicate this post - Please save the copy before returning to the list view"
+
+#: wp-easy-post-duplicator.php:192
+msgid "Bitte speichern Sie die Kopie, bevor Sie zur Listenansicht gehen!"
+msgstr "Please save the copy before returning to the list view!"
+
+#: wp-easy-post-duplicator.php:234
+msgid "Wird dupliziert..."
+msgstr "Duplicating..."
+
+#: wp-easy-post-duplicator.php:286
+msgid "Wichtiger Hinweis"
+msgstr "Important Note"
+
+#: wp-easy-post-duplicator.php:287
+msgid "Da dies ein <strong>Crocoblock Custom Post Type</strong> ist, speichern Sie bitte den Beitrag, bevor Sie zur Listenansicht zurückkehren, um Fehler zu vermeiden."
+msgstr "As this is a <strong>Crocoblock Custom Post Type</strong>, please save the post before returning to the list view to avoid errors."
+
+#: wp-easy-post-duplicator.php:288
+msgid "Verstanden"
+msgstr "Understood"
+
+#: wp-easy-post-duplicator.php:298
+msgid "Keine weitere Duplizierung"
+msgstr "No further duplication"
+
+#: wp-easy-post-duplicator.php:309
+msgid "Beitrag duplizieren"
+msgstr "Duplicate post"
+
+#: wp-easy-post-duplicator.php:393
+msgid "Kein Beitrag zum Duplizieren angegeben."
+msgstr "No post specified for duplication."
+
+#: wp-easy-post-duplicator.php:398
+msgid "Post-Erstellung fehlgeschlagen, der Originalbeitrag wurde nicht gefunden."
+msgstr "Post creation failed, the original post was not found."
+
+#: wp-easy-post-duplicator.php:404
+msgid "Dieser Beitrag ist bereits eine Kopie und kann nicht erneut dupliziert werden."
+msgstr "This post is already a copy and cannot be duplicated again."
+
+#: wp-easy-post-duplicator.php:431
+msgid "Post-Duplizierung fehlgeschlagen."
+msgstr "Post duplication failed."
+
+#: wp-easy-post-duplicator.php:473
+msgid "Sicherheits-Check fehlgeschlagen. Bitte versuchen Sie es erneut."
+msgstr "Security check failed. Please try again."
+
+#: wp-easy-post-duplicator.php:478
+msgid "Sie haben nicht die erforderlichen Berechtigungen"
+msgstr "You do not have the required permissions"
+
+#: wp-easy-post-duplicator.php:493
+msgid "Post-Duplizierung fehlgeschlagen"
+msgstr "Post duplication failed"
